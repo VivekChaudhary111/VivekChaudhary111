@@ -2,7 +2,7 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 */12 * * *"  # runs every 12 hours
+    - cron: "0 */1 * * *"  # runs every hour
   workflow_dispatch:
 
 permissions:
@@ -14,20 +14,23 @@ jobs:
 
     steps:
       - uses: actions/checkout@v4
-
-      - name: Generate snake animation SVG
-        uses: Platane/snk@v3
+      - uses: Platane/snk@v3
         id: snake-gif
         with:
-          github_user_name: VivekChaudhary111  # Replace with your GitHub username
+          github_user_name: VivekChaudhary111
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+            - name: Generate snake animation SVG
 
       - name: Create output directory
         run: mkdir -p dist
 
       - name: Move generated files to 'dist' folder
         run: |
-          mv github-contribution-grid-snake.svg dist/
-          mv github-contribution-grid-snake-dark.svg dist/ || echo "No dark version generated"
+          mv github-snake.svg dist/
+          mv github-snake-dark.svg dist/ || echo "No dark version generated"
+
 
       - name: Deploy to output branch
         uses: crazy-max/ghaction-github-pages@v4
