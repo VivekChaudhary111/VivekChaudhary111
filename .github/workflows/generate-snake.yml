@@ -2,7 +2,7 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 */1 * * *"  # runs every hour
+    - cron: "0 */12 * * *"
   workflow_dispatch:
 
 permissions:
@@ -13,29 +13,21 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v4
-      - uses: Platane/snk@v3
-        id: snake-gif
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate snake game from GitHub contribution grid
+        uses: Platane/snk@v3
         with:
           github_user_name: VivekChaudhary111
           outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-            - name: Generate snake animation SVG
+            github-contribution-grid-snake.svg
+            github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Create output directory
-        run: mkdir -p dist
-
-      - name: Move generated files to 'dist' folder
-        run: |
-          mv github-snake.svg dist/
-          mv github-snake-dark.svg dist/ || echo "No dark version generated"
-
-
-      - name: Deploy to output branch
+      - name: Push generated files to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
-          build_dir: dist
+          build_dir: .
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
