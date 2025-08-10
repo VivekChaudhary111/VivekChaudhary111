@@ -181,7 +181,7 @@ Here are some ideas to get you started:
 <div align="center">
 
 ### 🎵 Currently Vibing To
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=bn9lqpd4kz48w4f88rogzgakx&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=bn9lqpd4kz48w4f88rogzgakx&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)
 
 ---
 
