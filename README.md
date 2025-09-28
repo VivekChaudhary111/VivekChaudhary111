@@ -10,8 +10,8 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 📫 How to reach me: vivekchaudharyfor121@gmail.com
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: ...
 -->
 
@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 - 🤖 **Artificial Intelligence & Machine Learning**
 - 🌐 **FullStack Developer**
 - 💻 **Python, Java Programming**
-- 🔬 **Research & Innovation**
+- 🔬 **Data Structures and Algorithms**
 
 ### 🎓 Education
 - **GLA University** - *Currently pursuing B.Tech. degree in Computer Science*
@@ -53,7 +53,7 @@ Here are some ideas to get you started:
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+  <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
 </p>
 
@@ -121,7 +121,7 @@ Here are some ideas to get you started:
 <div align="center">
 
 | Project Name | Description | Technologies |
-|--------------|-------------|--------------|
+|--------------|-------------|--------------| 
 | **AI Chatbot** | Intelligent conversational AI system | Python, TensorFlow, NLP |
 | **IoT Weather Station** | Real-time weather monitoring system | Arduino, Sensors, Python |
 | **Machine Learning Dashboard** | Data visualization for ML models | Python, Streamlit, Plotly |
