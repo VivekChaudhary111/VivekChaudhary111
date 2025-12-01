@@ -1,193 +1,120 @@
-## Hi there 👋
-
-<!--
-**VivekChaudhary111/VivekChaudhary111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: vivekchaudharyfor121@gmail.com
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: ...
--->
-
-<!-- Add a custom header banner here -->
-
 <div align="center">
-  <img src="https://github.com/VivekChaudhary111/VivekChaudhary111/blob/56192960231bfb050e61eaf380e08982983e7a17/github-header-banner.png" alt="Header Image" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0099ff&height=280&section=header&text=Vivek%20Chaudhary&fontSize=80&animation=fadeIn&fontAlignY=35&desc=AI%20Agent%20Developer%20%7C%20Full%20Stack%20Engineer%20%7C%20IoT%20Innovator&descAlignY=60&descAlign=50" width="100%" />
 </div>
 
-## 👋 About Me
-
-<img align="right" alt="Coding GIF" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" />
-
-<!-- Typing Animation -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=435&lines=Hey..+I'm+Vivek!;AI+%26+ML+Enthusiast;IoT+Developer;GLA+University;Student" alt="Typing SVG" />
+
+### Engineering Intelligence
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3500&pause=1000&color=3F8CFF&center=true&vCenter=true&width=435&lines=Architecting+Autonomous+Agents;Building+Scalable+MERN+Apps;LeetCode+Top+5%25+Global;Hackathon+Winner+2024" alt="Typing SVG" />
+</a>
+
+<p align="center">
+  I am a pre-final year <b>Computer Science (AIML & IoT)</b> student at GLA University. 
+  <br>
+  I specialize in building <b>Autonomous AI Agents</b> using LangGraph and scalable <b>Full-Stack Architectures</b>.
+</p>
+
+<a href="https://linkedin.com/in/vivek-chaudhary-1b26242b4">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:vivekchaudharyfor121@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
 </div>
-
-### 🔥 Passionate About
-- 🤖 **Artificial Intelligence & Machine Learning**
-- 🌐 **FullStack Developer**
-- 💻 **Python, Java Programming**
-- 🔬 **Data Structures and Algorithms**
-
-### 🎓 Education
-- **GLA University** - *Currently pursuing B.Tech. degree in Computer Science*
-
-### 💡 Current Focus
-- Building AI-powered applications
-- Exploring IoT solutions
-- Contributing to open-source projects
-- Learning advanced machine learning algorithms
 
 ---
 
-## 🛠️ Tech Stack & Skills
+### Technical Arsenal
 
-### Programming Languages
+**Languages**
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,python,js,cpp,html,css" />
+  </a>
 </p>
 
-### AI/ML & Data Science
+**AI, Machine Learning & GenAI**
 <p align="left">
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv,pandas" />
+  </a>
+  <img src="https://img.shields.io/badge/LangGraph-1C1C1C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C1C1C?style=for-the-badge&logo=langchain&logoColor=white" />
 </p>
 
-### IoT & Hardware
+**Full Stack Development**
 <p align="left">
-  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-icon.svg" alt="raspberry-pi" width="40" height="40"/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql,bootstrap" />
+  </a>
 </p>
 
-### Development Tools
+**DevOps & Cloud Tools**
 <p align="left">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=azure,aws,gcp,docker,eclipse,vscode">
-  <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> -->
-  <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="jupyter" width="40" height="40"/>
-  <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,docker,aws,azure,postman,vscode" />
+  </a>
 </p>
 
 ---
 
-## 📊 GitHub Statistics
+### Featured Projects
+
+| Project | Tech Stack | Description |
+| :--- | :--- | :--- |
+| **[Autonomous Learning Agent](https://github.com/VivekChaudhary111)** | LangGraph, Python, Tavily API, ChromaDB | • **Infosys Internship Project**.<br>• Intelligent Tutor using **LangGraph** for stateful learning workflows.<br>• Implements **Feynman Technique** for adaptive concept simplification.<br>• Features Checkpoint Verification & Dynamic Web Search. |
+| **[CanYouCheat (AI Proctoring)](https://github.com/VivekChaudhary111/CanYouCheat)** | React, Node.js, TensorFlow.js, Docker | • **95% Accuracy** in real-time face & gaze tracking.<br>• Containerized via Docker reducing setup by **70%**.<br>• Full-stack integration with Socket.IO. |
+| **[Full-Stack E-Commerce](https://github.com/VivekChaudhary111)** | Node.js, Express, MongoDB, EJS | • B2C platform with Role-Based Auth (**Passport.js**).<br>• Scalable REST APIs for product & cart management.<br>• **99.9% Uptime** on Vercel deployment. |
+
+---
+
+### Honors & Certifications
+
+<div align="left">
+
+- 🥇 **1st Place Winner** | AI-Based Automation Hackathon (GLA University, 2024)
+- 🏅 **Top 5% Global** | LeetCode (Rating: 1563) - 450+ Problems Solved
+- ☁️ **Microsoft Certified** | Azure AI Fundamentals (AI-900)
+- 🥈 **Rank 1200** | Amazon ML Challenge 2025 (Top 6%)
+
+</div>
+
+---
+
+### GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VivekChaudhary111&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VivekChaudhary111&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="languages graph" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VivekChaudhary111&theme=tokyonight&hide_border=true" alt="streak graph" />
+</div>
+
+---
 
 <div align="center">
   
-### 📈 GitHub Stats
-![Vivek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VivekChaudhary111&show_icons=true&theme=radical&hide_border=true&count_private=true)
+  <img src="https://raw.githubusercontent.com/VivekChaudhary111/VivekChaudhary111/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
-### 🔥 GitHub Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=VivekChaudhary111&theme=radical&hide_border=true)
-
-### 💻 Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VivekChaudhary111&layout=compact&theme=radical&hide_border=true)
-
-### 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=VivekChaudhary111&theme=radical&no-frame=true&no-bg=false&margin-w=4)
-
-</div>
-
----
-
-## 🐍 GitHub Contribution Snake
-
-<!-- Snake eating my contributions -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VivekChaudhary111/VivekChaudhary111/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VivekChaudhary111/VivekChaudhary111/output/github-contribution-grid-snake.svg">
-    <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/VivekChaudhary111/VivekChaudhary111/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
----
-
-
-## 🌟 Featured Projects
-
-<div align="center">
-
-| Project Name | Description | Technologies |
-|--------------|-------------|--------------| 
-| **AI Chatbot** | Intelligent conversational AI system | Python, TensorFlow, NLP |
-| **IoT Weather Station** | Real-time weather monitoring system | Arduino, Sensors, Python |
-| **Machine Learning Dashboard** | Data visualization for ML models | Python, Streamlit, Plotly |
-| **Smart Home Automation** | IoT-based home control system | Raspberry Pi, Python, MQTT |
-
-</div>
-
----
-
-## 🤝 Connect With Me
-
-<div align="center">
-
-### 📱 Social Media
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vivek-chaudhary-1b26242b4)
-<!--[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-handle)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/your-profile)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/your-channel)
--->
-
-### 📧 Contact
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vivekchaudharyfor121@gmail.com)
-<!--[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://your-portfolio.com) -->
-
-</div>
-
----
-
-## 📈 Activity & Achievements
-
-<div align="center">
-
-### 👀 Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=VivekChaudhary111&color=blueviolet&style=flat)
-
-### 🎯 Current Goals
-- 🔭 Working on AI/ML projects
-- 🌱 Learning advanced deep learning techniques
-- 👯 Looking to collaborate on IoT projects
-- 💬 Ask me about **Python, AI, ML, IoT**
-- ⚡ Fun fact: **I believe AI will revolutionize everything!**
-
-</div>
-
----
-
-## 💡 Random Dev Quote
-
-<div align="center">
+  <br>
   
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+  <div align="center">
+  
+  ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+  </div>
+
+  ![Profile Views](https://komarev.com/ghpvc/?username=VivekChaudhary111&color=blueviolet&style=flat)
+  
 </div>
 
----
-
-**"Code is poetry written in logic"** ✨
-
-*Made with ❤️ and lots of ☕*
-
-⭐ **If you like my profile, please give my repos a star!** ⭐
-
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0099ff&height=100&section=footer" width="100%"/>
 </div>
-
-<!-- Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
-
----
