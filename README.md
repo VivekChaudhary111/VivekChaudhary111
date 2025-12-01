@@ -67,7 +67,7 @@
 | :--- | :--- | :--- |
 | **[Autonomous Learning Agent](https://github.com/VivekChaudhary111)** | LangGraph, Python, Tavily API, ChromaDB | • **Infosys Internship Project**.<br>• Intelligent Tutor using **LangGraph** for stateful learning workflows.<br>• Implements **Feynman Technique** for adaptive concept simplification.<br>• Features Checkpoint Verification & Dynamic Web Search. |
 | **[CanYouCheat (AI Proctoring)](https://github.com/VivekChaudhary111/CanYouCheat)** | React, Node.js, TensorFlow.js, Docker | • **95% Accuracy** in real-time face & gaze tracking.<br>• Containerized via Docker reducing setup by **70%**.<br>• Full-stack integration with Socket.IO. |
-| **[Full-Stack E-Commerce](https://github.com/VivekChaudhary111)** | Node.js, Express, MongoDB, EJS | • B2C platform with Role-Based Auth (**Passport.js**).<br>• Scalable REST APIs for product & cart management.<br>• **99.9% Uptime** on Vercel deployment. |
+| **[Full-Stack E-Commerce](https://github.com/VivekChaudhary111/Node-js/tree/main/E-commerce)** | Node.js, Express, MongoDB, EJS | • B2C platform with Role-Based Auth (**Passport.js**).<br>• Scalable REST APIs for product & cart management.<br>• **99.9% Uptime** on Vercel deployment. |
 
 ---
 
