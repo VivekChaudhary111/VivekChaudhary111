@@ -76,7 +76,7 @@
 <div align="left">
 
 - 🥇 **1st Place Winner** | AI-Based Automation Hackathon (GLA University, 2024)
-- 🏅 **Top 5% Global** | LeetCode (Rating: 1563) - 450+ Problems Solved
+- 🏅 **Top 17.7% Global** | LeetCode (Rating: 1646) - 477+ Problems Solved
 - ☁️ **Microsoft Certified** | Azure AI Fundamentals (AI-900)
 - 🥈 **Rank 1200** | Amazon ML Challenge 2025 (Top 6%)
 
